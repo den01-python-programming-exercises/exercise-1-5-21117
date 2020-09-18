@@ -6,7 +6,7 @@ The exercise template comes with a program template that includes the function a
 ```python
 def main():
     name = "Ada Lovelace"
-    # Write your code here
+     # `Ada Lovelace`: `print("Hi " + Ada Lovelace!")`
 
 if __name__ == '__main__':
     main()
